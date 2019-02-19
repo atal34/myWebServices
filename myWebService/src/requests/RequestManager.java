@@ -40,6 +40,7 @@ public class RequestManager
 	public String processTestRequest(String data)
 	{
 		return "Hello, Web Service called... Received data : " + data;
+		//sample request
 	}
 	
 	@GET
